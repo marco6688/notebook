@@ -1,0 +1,9 @@
+pjsip，opensips
+
+https://github.com/LockGit/gochat
+
+https://github.com/sirRen/gim
+
+https://blog.csdn.net/qq_32817359
+
+https://github.com/sirRen/WanIm
